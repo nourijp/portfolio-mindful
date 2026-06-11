@@ -1,0 +1,2 @@
+- Removed standard template's client and journal sections as they are not relevant to the mindful computing persona.
+- Replaced hero sub, about text, and expertise with mindful computing details.

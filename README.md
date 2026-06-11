@@ -1,16 +1,16 @@
 # portfolio-mindful
 
 Subdomain:    mindful.hamednouri.com
-Template:     Monica
-Template URL: https://themewagon.github.io/monica/
+Template:     Kards / Standard
+Template URL: https://styleshout.com/
 Public email: mindful@hamednouri.com
-Resume:       None — consulting/services site
+Resume:       None — CTA only
 
 ## Purpose
-Mindful Computing Consultant, digital organization, privacy-aware tech setup.
+Mindful computing portfolio and service page for digital organization, privacy-aware tools, second brain setup, AI workflows, and calmer personal technology systems.
 
 ## Build
-Open index.html in browser. No build step required.
+Open index.html in browser. No build step required for plain HTML templates.
 
 ## Deploy
 Not deployed. Awaiting Hamed's approval.

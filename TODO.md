@@ -1,8 +1,3 @@
-# TODO — mindful.hamednouri.com
-
-## Assets Needed
-- [ ] Obsidian/PKM screenshots
-- [ ] Privacy stack diagram
-- [ ] AI workflow examples
-- [ ] Calendly or booking link
-- [ ] Service pricing (if sharing)
+- [ ] Add Hamed's real headshot to `images/intro-bg.jpg`
+- [ ] Add favicon.ico if not present
+- [ ] Add real photos for any placeholder images if needed
